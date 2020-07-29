@@ -1,0 +1,36 @@
+p.head 	{ font-family: Arial; 
+		  border: 4px groove #000000;
+		  text-align: center; 
+		  background-color: #AAAA00;
+		  font-size: 30px;
+		  font-weight: bold;
+		  color: #3333FF;}
+		
+p.intro	{ font-family: Calibri; 
+		  font-size: 16px;
+		  font-weight: bold;
+		  color: #660000;}
+
+p.link	{ font-family: Calibri; 
+		  font-size: 14px;
+		  font-weight: bold;
+		  color: #004400;}
+
+body { background-color: #33CCFF;}		  
+		
+p.regp	{ font-family: Arial; 
+		  font-size: 24px;
+		  color: yellow;}
+
+ul		{ padding-left:180px;}		  
+		  
+li		{ font-family: Arial; 
+		  font-size: 14px;
+		  font-style: italic;
+		  color: blue;}
+		  
+img.fltl{ padding: 0 15px 15px 0;
+		  float: left;}	
+
+img.fltr{ padding: 0 0 15px 15px ;
+		  float: right;}			  
